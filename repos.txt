@@ -1,0 +1,3 @@
+https://github.com/chrishayuk/vicuna-server
+https://github.com/chrishayuk/zig-wasm
+https://github.com/Sobeston/ziglearn
