@@ -1,6 +1,1 @@
-https://github.com/chrishayuk/vicuna-server
-https://github.com/chrishayuk/zig-wasm
-https://github.com/Sobeston/ziglearn
-https://github.com/ratfactor/ziglings
-https://github.com/coderloff/zig-tutorial
-https://github.com/exercism/zig
+https://github.com/chrishayuk/chuk-chunking-samples

@@ -5,3 +5,4 @@ https://github.com/ratfactor/ziglings
 https://github.com/coderloff/zig-tutorial
 https://github.com/exercism/zig
 https://github.com/sunil-sandhu/react-todo
+https://github.com/chrishayuk/chuk-chunking-samples
